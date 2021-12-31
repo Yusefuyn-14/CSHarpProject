@@ -1,1 +1,3 @@
 # CSharpProject
+
+WMI +
