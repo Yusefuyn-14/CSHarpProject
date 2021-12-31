@@ -52,7 +52,8 @@ namespace ManagementInstrumentationProject
                 if (item.Value != null)
                     value = item.Value.ToString();
                 if (item.Type == CimType.String)
-                    value = '"' + value + '"';
+                    if (value != "null")
+                        value = '"' + value + '"';
                 Code += item.Name + " = " + value + ";\n";
             }
             richTextBox1.Text = Code + "};";
