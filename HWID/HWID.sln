@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWID", "HWID\HWID.csproj", "{727EEE05-053E-4D76-A86B-A584A1CC43CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727EEE05-053E-4D76-A86B-A584A1CC43CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727EEE05-053E-4D76-A86B-A584A1CC43CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727EEE05-053E-4D76-A86B-A584A1CC43CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727EEE05-053E-4D76-A86B-A584A1CC43CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
